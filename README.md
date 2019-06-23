@@ -1,14 +1,11 @@
-# single-spa-portal-example
+
+## 建议先把文章https://alili.tech/archive/ea599f7c/看完再学习demo
+# single-spa-study
 The goal of this project is to provide an example of how to build a portal like app which consists of multiple single page applications (SPA's). Each SPA should be self contained with its own build process. It should be individually deployable without the need to deploy the whole application if there are changes to any individual app.
 
-This example is based on [simple-single-spa-webpack-example](https://github.com/joeldenning/simple-single-spa-webpack-example/blob/master/README.md) but will provide further features like:
+This example is based on [single-spa-portal-example](https://github.com/me-12/single-spa-portal-example) 
 
-- [x] Isolate SPA's with their own build process
-- [x] Load SPA's on demand with SystemJS
-- [x] Provide a way to communicate between each SPA
-- [x] Get assets (like images, fonts, css, etc.) coming from different servers to work
-- [x] Support multiple Angular versions without zone.js conflicts. For details see [Multiple Angular Apps](#multiple-angular-apps)
-- [x] Support Angular AOT Builds
+
 
 ## How to run this project
 1. Clone this project
