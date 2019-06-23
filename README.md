@@ -1,5 +1,5 @@
 
-## 建议先把文章https://alili.tech/archive/ea599f7c/看完再学习demo
+## 建议先把文章https://alili.tech/archive/ea599f7c/ 看完再学习demo
 # single-spa-study
 The goal of this project is to provide an example of how to build a portal like app which consists of multiple single page applications (SPA's). Each SPA should be self contained with its own build process. It should be individually deployable without the need to deploy the whole application if there are changes to any individual app.
 
