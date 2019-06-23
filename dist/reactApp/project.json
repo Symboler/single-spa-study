@@ -1,0 +1,7 @@
+{
+    "name": "reactApp",
+    "path": ["/reactApp"],
+    "prefix": "/reactApp/",
+    "main": "/reactApp/main.js",
+    "store": "/reactApp/store.js"
+  }

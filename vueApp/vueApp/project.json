@@ -1,0 +1,7 @@
+{
+    "name": "vueApp",
+    "path": ["/vueApp"],
+    "prefix": "/vueApp/",
+    "main": "/vueApp/main.js",
+    "store": "/vueApp/store.js"
+  }
