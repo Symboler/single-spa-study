@@ -5,7 +5,7 @@ The goal of this project is to provide an example of how to build a portal like 
 
 This example is based on [single-spa-portal-example](https://github.com/me-12/single-spa-portal-example) 
 
-
+## 在线预览地址 https://sleepy-curie-58a909.netlify.com/#/reactApp
 
 ## How to run this project
 1. Clone this project
